@@ -4,8 +4,8 @@ Room:
 Room Author: 
   PoloMints (https://tryhackme.com/p/PoloMints)
 Writeup Author: 
-  bmwallace94 (https://tryhackme.com/p/bmwallace94, 
-  Github: https://github.com/bmwall94/THM_Writeups,
+  bmwall94 (https://tryhackme.com/p/bmwallace94, 
+  Github: https://github.com/bmwall94/BenSec,
   THM Discord: @Aura, 
   linkedIn: www.linkedin.com/in/ben-wallace-cs)
 THM writeups exclude flags by default, but act as a guided walkthrough for the room.
