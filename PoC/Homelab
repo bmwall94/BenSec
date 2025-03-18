@@ -1,1 +1,12 @@
+Homelab will be the complete stack I use for cybersecurity research. It will include:
+1. Operating System - Qubes OS
+2. Text Editor & IDE (Neovim)
+3. Version Control System (GitHub, Git, lazygit.lua)
+4. Uncensored LLM for Pentesting (Uncensored ollama.lua, plugin for Neovim)
+5. Markdown note-taking system (obsidian.lua, plugin for Neovim)
+6. System for Publishing Documentation (GitHub Pages, I think this is CLI)
 
+This stack will allow me to have an efficient system for hacking boxes and
+documenting my cybersecurity journey all from within my terminal emulator.
+
+Everything I need will be at my fingertips.
